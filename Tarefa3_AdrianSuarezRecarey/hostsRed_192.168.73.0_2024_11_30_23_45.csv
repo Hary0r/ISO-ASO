@@ -1,0 +1,5 @@
+IP;MAC;FABRICANTE;LATENCIA_MS
+192.168.73.1;52:54:00:12:35:00;{"errors":{"detail":"Not Found"}};0.176 ms
+192.168.73.2;52:54:00:12:35:00;{"errors":{"message":"Please slow down your requests or upgrade your plan at https://macvendors.com","detail":"Too Many Requests"}};0.370 ms
+192.168.73.3;08:00:27:4a:ac:3c;PCS Systemtechnik GmbH;0.527 ms
+192.168.73.101;08:00:27:09:3f:9e;{"errors":{"message":"Please slow down your requests or upgrade your plan at https://macvendors.com","detail":"Too Many Requests"}};0.014 ms
